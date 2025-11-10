@@ -1,7 +1,7 @@
 {
   "name": "color-table",
   "private": true,
-  "homepage": "https://github.com/SamadT/color-table.git",
+  "homepage": "https://samadt.github.io/color-table/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
