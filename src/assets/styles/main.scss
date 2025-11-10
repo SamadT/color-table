@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: justify;
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+body{
+    overflow-x: hidden;
+}
+#root{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 4em;
+    gap: 3em;
+}
+::-webkit-scrollbar{
+    width: 5px;
+}
+::-webkit-scrollbar-thumb{
+    border-radius: 10px;
+    background: gray;
+}
+::-webkit-scrollbar-thumb:hover{
+    background: rgb(180, 180, 180);
+}

@@ -1,0 +1,53 @@
+{"data":
+{"en":
+{
+    "tr1":
+[
+    {"title":"Red","code":"#FF0000","link":"https://en.wikipedia.org/wiki/Red","row":3,"col":2}, 
+    {"title":"Yellow","code":"#FFFF00","link":"https://en.wikipedia.org/wiki/Yellow","row":1,"col":1},
+    {"title":"Blue","code":"#0000FF","link":"https://en.wikipedia.org/wiki/Blue","row":1,"col":1},
+    {"title":"Green","code":"#008000","link":"https://en.wikipedia.org/wiki/Green","row":1,"col":1},
+    {"title":"Gold","code":"#FFD700","link":"https://en.wikipedia.org/wiki/Gold_(color)","row":2,"col":1}],
+    "tr2":
+[
+    {"title":"Silver","code":"#C0C0C0","link":"https://en.wikipedia.org/wiki/Silver_(color)","row":1,"col":2},
+    {"title":"Gray","code":"#808080","link":"https://en.wikipedia.org/wiki/Grey","row":1,"col":1}],
+    "tr3":
+[
+    {"title":"Chestnut","code":"#800000","link":"https://en.wikipedia.org/wiki/Chestnut_(color)","row":1,"col":1},
+    {"title":"Purple","code":"#800080","link":"https://en.wikipedia.org/wiki/Purple","row":2,"col":3}],
+    "tr4":
+[
+    {"title":"Fuchsia","code":"#FF00FF","link":"https://en.wikipedia.org/wiki/Fuchsia_(color)","row":1,"col":1},
+    {"title":"Lime","code":"#00FF00","link":"https://en.wikipedia.org/wiki/Lime_(color)","row":1,"col":1},
+    {"title":"Cyan","code":"#00FFFF","link":"https://en.wikipedia.org/wiki/Cyan","row":1,"col":1}],
+    "tr5":
+[
+    {"title":"Teal","code":"#008080","link":"https://en.wikipedia.org/wiki/Teal","row":1,"col":6}]},
+"pl":
+{
+    "tr1":
+[
+    {"title":"Czerwony","code":"#FF0000","link":"https://pl.wikipedia.org/wiki/Barwa_czerwona","row":3,"col":2},
+    {"title":"Zółty","code":"#FFFF00","link":"https://pl.wikipedia.org/wiki/Barwa_%C5%BC%C3%B3%C5%82ta","row":1,"col":1},
+    {"title":"Niebieski","code":"#0000FF","link":"https://pl.wikipedia.org/wiki/Barwa_niebieska","row":1,"col":1},
+    {"title":"Zielony","code":"#008000","link":"https://pl.wikipedia.org/wiki/Barwa_zielona","row":1,"col":1},
+    {"title":"Złoty","code":"#FFD700","link":"https://pl.wikipedia.org/wiki/Barwa_z%C5%82ota","row":2,"col":1}],
+    "tr2":
+[
+    {"title":"Srebrny","code":"#C0C0C0","link":"https://pl.wikipedia.org/wiki/Barwa_srebrna","row":1,"col":2},
+    {"title":"Szary","code":"#808080","link":"https://pl.wikipedia.org/wiki/Barwa_szara","row":1,"col":1}],
+    "tr3":
+[
+    {"title":"Kasztanowy","code":"#800000","link":"https://pl.wikipedia.org/wiki/Barwa_kasztanowa","row":1,"col":1},
+    {"title":"Purpurowy","code":"#800080","link":"https://pl.wikipedia.org/wiki/Barwa_purpurowa","row":2,"col":3}],
+    "tr4":
+[
+    {"title":"Fuksjowy","code":"#FF00FF","link":"https://pl.wikipedia.org/wiki/Fuksja_(kolor)","row":1,"col":1},
+    {"title":"Limonkowy","code":"#00FF00","link":"https://pl.wikipedia.org/wiki/Barwa_limonkowa","row":1,"col":1},
+    {"title":"Cyjanowy","code":"#00FFFF","link":"https://pl.wikipedia.org/wiki/Cyjan_(kolor)","row":1,"col":1}],
+    "tr5":
+[
+    {"title":"Morski","code":"#008080","link":"https://pl.wikipedia.org/wiki/Barwa_morska","row":1,"col":6}]}
+}
+}
